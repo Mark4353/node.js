@@ -1,0 +1,22 @@
+{
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "dependencies": {
+
+    "validator": "^13.12.0"
+
+  },
+
+  "devDependencies": {
+
+    "http-server": "^14.1.1"
+
+  }
+
+}
+
